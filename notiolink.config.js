@@ -4,7 +4,10 @@ module.exports = {
 
   /** Description for SEO */
   seoDescription:
-    'Riskslot link',
+    'Riskslotclub',
+  /** Twitter account for SEO */
+  twitter: '@th_clarence',
+
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  deployname: 'sparax21',
+  deployUrl: 'https://notiolink.thcl.dev',
 };
